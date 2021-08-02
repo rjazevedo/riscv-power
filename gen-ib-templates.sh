@@ -1,0 +1,11 @@
+./ib-templates.py -i 10 -n 100
+./ib-templates.py -i 50 -n 100
+./ib-templates.py -i 80 -n 100
+./ib-templates.py -i 90 -n 100
+./ib-templates.py -i 100 -n 100
+./ib-templates.py -i 110 -n 100
+./ib-templates.py -i 120 -n 100
+./ib-templates.py -i 150 -n 100
+./ib-templates.py -i 200 -n 100
+./ib-templates.py -i 500 -n 100
+./ib-templates.py -i 1000 -n 100
